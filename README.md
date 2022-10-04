@@ -8,10 +8,6 @@ products:
 - windows-api-win32
 ---
 
-# Simple Drawing sample
-
-This sample is a very simple drawing program that shows how to use mouse input, keyboard input, and accelerator tables.. For more information about the sample, see [this article](https://docs.microsoft.com/windows/win32/learnwin32/simple-drawing-sample).
-
 ## Requirements
 
 * Client: Windows 8.x or later
